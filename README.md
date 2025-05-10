@@ -1,13 +1,7 @@
 # fullstack_task_sumithra
 # 📝 Full Stack To-Do List (Real-Time with Redis, MongoDB, and WebSockets)
 
-A full-stack real-time to-do list app built with:
-- **Node.js (TypeScript)** backend
-- **Socket.IO for WebSockets**
-- **Redis** for caching tasks
-- **MongoDB** for long-term storage
-- **React (TypeScript)** frontend
-- **Styled using CSS / Tailwind CSS (optional)**
+
 
 ---
 
@@ -32,22 +26,10 @@ A full-stack real-time to-do list app built with:
 
 ```
 fullstack-task-sumithra/
-├── backend/
-│   ├── sockets/taskSocket.ts
-│   ├── models/taskModel.ts
-│   ├── config/redis.ts
-│   ├── routes/taskRoutes.ts
-│   ├── controllers/taskController.ts
-│   ├── utils/types.ts
-│   └── server.ts
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   │   └── TaskItem.tsx
-│   │   ├── App.tsx
-│   │   └── socket.ts
-├── README.md
-└── package.json
+![image](https://github.com/user-attachments/assets/3d0242b8-c121-41f4-a2fe-a30eb2fb7334)
+![image](https://github.com/user-attachments/assets/168c7b2c-fbfb-4a71-b4df-cc34ca832419)
+
+
 ```
 
 ---
@@ -123,22 +105,9 @@ npm start
 ### `GET /api/tasks/fetchAllTasks`
 - Returns all tasks from MongoDB collection `assignment_sumithra`
 
----
 
-## 📊 MongoDB & Redis Details
 
-### MongoDB
-- **DB URL**: `mongodb+srv://assignment_user:HCgEj5zv8Hxwa4xO@testcluster.6f94f5o.mongodb.net/`
-- **Database**: `assignment`
-- **Collection**: `assignment_sumithra`
 
-### Redis
-- **Host**: `redis-12675.c212.ap-south-1-1.ec2.cloud.redislabs.com`
-- **Port**: `12675`
-- **Username**: `default`
-- **Password**: `dssYpBnYQrl01GbCGVhVq2e4dYvUrKJB`
-
----
 
 ## 🎨 Figma Design
 
@@ -149,7 +118,7 @@ Reference Design:
 - Pixel-perfect UI
 - Responsive layout (desktop/tablet/mobile)
 - Reusable components
-- Optional: Tailwind CSS for fast styling
+
 
 ---
 
@@ -171,7 +140,4 @@ Reference Design:
 
 ---
 
-## 📦 To Submit
 
-- Zip the `fullstack-task-sumithra/` folder **OR**
-- Push to GitHub and share the repo link
