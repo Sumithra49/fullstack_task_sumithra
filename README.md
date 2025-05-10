@@ -31,8 +31,8 @@ A full-stack to-do list application built with Node.js, Redis, MongoDB, and Reac
 ```
 fullstack-task-sumithra/
 
-![image](https://github.com/user-attachments/assets/4aee589f-df51-4334-949f-bdd05a42261a)
-![image](https://github.com/user-attachments/assets/6f74caae-1afb-4eed-a5b8-ff32f93a1b03)
+![image](https://github.com/user-attachments/assets/10fe3929-9e42-4f22-a3fb-132ac06248cb)
+
 
 
 
