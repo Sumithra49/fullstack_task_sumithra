@@ -1,6 +1,10 @@
 # fullstack_task_sumithra
 # 📝 Full Stack To-Do List (Real-Time with Redis, MongoDB, and WebSockets)
+A full-stack to-do list application built with Node.js, Redis, MongoDB, and React.js. The app uses WebSockets (Socket.io) to allow real-time task addition, stores tasks in Redis, and moves them to MongoDB when the list exceeds 50 items. The frontend is built with React.js and is fully responsive, ensuring a seamless user experience across all devices.
 
+# Deployed Link
+## Backend:https://fullstack-task-sumithra.onrender.com
+## front end:https://fullstack-task-sumithra.vercel.app/
 
 
 ---
@@ -26,8 +30,10 @@
 
 ```
 fullstack-task-sumithra/
-![image](https://github.com/user-attachments/assets/3d0242b8-c121-41f4-a2fe-a30eb2fb7334)
-![image](https://github.com/user-attachments/assets/168c7b2c-fbfb-4a71-b4df-cc34ca832419)
+
+![image](https://github.com/user-attachments/assets/4aee589f-df51-4334-949f-bdd05a42261a)
+![image](https://github.com/user-attachments/assets/6f74caae-1afb-4eed-a5b8-ff32f93a1b03)
+
 
 
 ```
@@ -136,8 +142,12 @@ Reference Design:
 ## 👨‍💻 Author
 
 **Sumithra**  
-[GitHub](https://github.com/yourusername)
+[GitHub](https://github.com/Sumithra49)
 
 ---
+## Screenshot
+![image](https://github.com/user-attachments/assets/fb556fcb-a038-42d1-a350-082f55365e24)
+
+
 
 
