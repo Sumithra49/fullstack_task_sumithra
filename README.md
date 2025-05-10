@@ -31,7 +31,57 @@ A full-stack to-do list application built with Node.js, Redis, MongoDB, and Reac
 ```
 fullstack-task-sumithra/
 
-![image](https://github.com/user-attachments/assets/10fe3929-9e42-4f22-a3fb-132ac06248cb)
+project-root/
+│
+├── backend/
+│   ├── config/
+│   │   ├── db.ts
+│   │   └── redis.ts
+│   ├── controllers/
+│   │   └── taskController.ts
+│   ├── models/
+│   │   └── taskModel.ts
+│   ├── node_modules/
+│   ├── routes/
+│   │   └── taskRoutes.ts
+│   ├── sockets/
+│   │   └── taskSocket.ts
+│   ├── utils/
+│   │   └── types.ts
+│   ├── .env
+│   ├── .gitignore
+│   ├── app.ts
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── server.ts
+│   └── tsconfig.json
+│
+├── frontend/
+│   ├── node_modules/
+│   ├── public/
+│   ├── src/
+│   │   ├── pic/
+│   │   │   ├── icon.png
+│   │   │   ├── Line 4.png
+│   │   │   └── plus-circle 1.png
+│   │   ├── App.css
+│   │   ├── App.test.tsx
+│   │   ├── App.tsx
+│   │   ├── index.css
+│   │   ├── index.tsx
+│   │   ├── logo.svg
+│   │   ├── react-app-env.d.ts
+│   │   ├── reportWebVitals.ts
+│   │   ├── setupTests.ts
+│   │   └── socket.ts
+│   ├── .gitignore
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── README.md
+│   └── tsconfig.json
+│
+└── README.md
+
 
 
 
