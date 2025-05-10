@@ -32,7 +32,7 @@ const App = () => {
 
   const fetchTasks = async () => {
     try {
-      const res = await axios.get('http://localhost:4000/api/tasks/fetchAllTasks');
+      const res = await axios.get('https://fullstack-task-sumithra.onrender.com/api/tasks/fetchAllTasks');
       setTasks(res.data);
     } catch (err) {
       console.error('Error fetching tasks:', err);
